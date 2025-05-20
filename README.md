@@ -2,6 +2,11 @@
 🎓 Computer Science student from Portugal<br>🔐 Passionate about Cybersecurity<br>🎮 Game Developer – mainly on Roblox, with experience in various engines<br>⚽ Futsal enthusiast – proudly represented the national team 5 times<br><br>💻 I code in C#, Python, Lua, Luau, and dabble in HTML<br>🎨 I work with 3D models and design custom GUIs for games and apps<br>🛠️ Love turning ideas into interactive, immersive experiences
 
 
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?color=0c0c0c&size=35&center=true&vCenter=true&width=1000&lines=My+Name+is+Danixx!;Full+Stack+Developer;Modeling,+ Coding,+ Ui Designer;Always+learning+new+things" />
+</div>
+
+
 ## 🌐 Socials:
 [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/https://www.twitch.tv/dev_danixx) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/Dev_Danixx) 
 
