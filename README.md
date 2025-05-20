@@ -3,7 +3,7 @@
 
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=0c0c0c&size=35&center=true&vCenter=true&width=1000&lines=My+Name+is+Danixx!;Full+Stack+Developer;Modeling,+ Coding,+ Ui Designer;Always+learning+new+things" />
+  <img src="https://readme-typing-svg.herokuapp.com/?color=0c0c0c&size=35&center=true&vCenter=true&width=1000&lines=Welcome+to+my+Profile!;Full+Stack+Developer;Modeling+and+Coding;Always+learning+new+things" />
 </div>
 
 
