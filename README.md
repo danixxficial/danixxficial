@@ -3,15 +3,10 @@
 
 <h1>
   <svg viewBox="0 0 240 80" xmlns="http://www.w3.org/2000/svg">
-    <style>
-      .small { font: italic 13px sans-serif; }
-      .heavy { font: bold 30px sans-serif; }
-      .Rrrrr { font: italic 40px serif; fill: red; }
-    </style>
-    <text x="20" y="35" class="small">My</text>
-    <text x="40" y="35" class="heavy">Name</text>
-    <text x="55" y="55" class="small">is</text>
-    <text x="65" y="55" class="Rrrrr">Danixx!</text>
+    <text x="20" y="35" font-size="13" font-style="italic" font-family="sans-serif">My</text>
+    <text x="40" y="35" font-size="30" font-weight="bold" font-family="sans-serif">Name</text>
+    <text x="55" y="55" font-size="13" font-style="italic" font-family="sans-serif">is</text>
+    <text x="65" y="55" font-size="40" font-style="italic" font-family="serif" fill="red">Danixx!</text>
   </svg>
 </h1>
 
