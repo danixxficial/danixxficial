@@ -7,6 +7,8 @@
 🎨 3D modeler & GUI designer — blending creativity with interactivity  
 💻 I code in: **C#**, **Python**, **Lua**, **Luau**, and tinker with **HTML**
 
+**Learning c# windows forms visual studio community 2022**
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fredoka&pause=1000&color=F70000&width=435&lines=Welcome+to+my+profile;Roblox+Developer+1M%2B+Visits+Across+Platform;CyberSecurity+Secret+Agent)](https://git.io/typing-svg)
 
 ---
