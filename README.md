@@ -3,7 +3,6 @@
 🎓 Computer Science student from **Portugal**  
 🔐 Cybersecurity enthusiast — always breaking & building  
 🎮 Game Developer — mainly on **Roblox**, with experience in multiple engines  
-⚽ Futsal lover — repped the **national team 5x**  
 🎨 3D modeler ; GUI designer ; Web Designer ; Graphics Designer— blending creativity with interactivity  
 💻 I code in: **C#**, **Python**, **Lua**, **Luau**, and tinker with **HTML**
 
