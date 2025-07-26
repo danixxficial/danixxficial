@@ -1,9 +1,9 @@
 # 👋 Hey, I'm Dani
 
 🎓 Computer Science student from **Portugal**  
-🔐 Cybersecurity enthusiast — always breaking & building  
-🎮 Game Developer — mainly on **Roblox**, with experience in multiple engines  
-🎨 3D modeler ; GUI designer ; Web Designer ; Graphics Designer— blending creativity with interactivity  
+🔐 Cybersecurity enthusiast
+🎮 Game Developer — mainly on **Roblox**
+🎨 3D modeler ; GUI designer ; Web Designer ; Graphics Designer.
 💻 I code in: **C#**, **Python**, **Lua**, **Luau**, and tinker with **HTML**
 
 **Learning c# windows forms visual studio community 2022**
