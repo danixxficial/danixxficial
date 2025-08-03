@@ -11,31 +11,20 @@
 
 ---
 
-## 🌐 Connect With Me
-
-[![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/dev_danixx)
-[![X](https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Dev_Danixx)
-
----
-
 ## 💻 Tech Stack
 
-**Languages & Frameworks**  
+**Languages**  
 ![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=flat&logo=csharp&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-%233670A0.svg?style=flat&logo=python&logoColor=ffdd54)
 ![Lua](https://img.shields.io/badge/Lua-%232C2D72.svg?style=flat&logo=lua&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-5C2D91?style=flat&logo=dotnet&logoColor=white)
 
 **Game Dev & Design**  
 ![Unity](https://img.shields.io/badge/Unity-%23000000.svg?style=flat&logo=unity&logoColor=white)
-![Unreal Engine](https://img.shields.io/badge/Unreal-%23313131.svg?style=flat&logo=unrealengine&logoColor=white)
 ![Roblox](https://img.shields.io/badge/Roblox-black?style=flat&logo=roblox&logoColor=white)
 ![Blender](https://img.shields.io/badge/Blender-%23F5792A.svg?style=flat&logo=blender&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white)
 
 **Tools & Platforms**  
-![Firebase](https://img.shields.io/badge/Firebase-%23039BE5.svg?style=flat&logo=firebase&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=flat&logo=github&logoColor=white)
 ![Steam](https://img.shields.io/badge/Steam-%23000000.svg?style=flat&logo=steam&logoColor=white)
 ![NVIDIA](https://img.shields.io/badge/NVIDIA-%2376B900.svg?style=flat&logo=nvidia&logoColor=white)
