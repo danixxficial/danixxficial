@@ -1,8 +1,13 @@
 # Hey my name is Daniel [Danixx] 
 
-- I am student from portugal that works with lua and c#.
-- I do games on roblox.
-- I love Meeting new people
+I'am a student from Portugal, as of right now i'am taking IT , i develope games part-time.
+Wan't to work with me? Contact me via Discord: danixxdev
 
 
+C#, Lua.
+3d Blender. 
+Figma.
+GoDot.
+
+ 
 
