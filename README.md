@@ -5,6 +5,7 @@ Wan't to work with me? Contact me via Discord: danixxdev
 
 
 C#, Lua.
+Sql.
 3d Blender. 
 Figma.
 GoDot.
