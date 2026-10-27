@@ -1,14 +1,4 @@
-# Hey my name is Daniel [Danixx] 
+# Danieru
+初めまして。ダニエルです。フォルテ・ダ・カーザ高校に通っています。コンピュータサイエンス（プログラミング）を勉強しています。もうすぐ18歳になります。よろしくお願いします！
 
-I'am a student from Portugal, as of right now i'am taking IT , i develope games part-time.
-Wan't to work with me? Contact me via Discord: danixxdev
-
-
-C#, Lua.
-Sql.
-3d Blender. 
-Figma.
-GoDot.
-
- 
 
