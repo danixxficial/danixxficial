@@ -1,5 +1,5 @@
 # Heyy there!
-I'm Daniel, a 17-year-old programming student from Portugal, studying Management and
+I'm Daniel, a 17-year-old programming student based in Portugal, studying Management and
 Programming of Computer Systems at Escola Secundária do Forte da Casa.
 I love solving problems with technology.
 
