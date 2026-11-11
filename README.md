@@ -1,4 +1,22 @@
-# Danieru
-初めまして。ダニエルです。フォルテ・ダ・カーザ高校に通っています。コンピュータサイエンス（プログラミング）を勉強しています。もうすぐ18歳になります。よろしくお願いします！
+# Heyy there!
+I'm Daniel, a 17-year-old programming student from Portugal, studying Management and
+Programming of Computer Systems at Escola Secundária do Forte da Casa.
+I love solving problems with technology.
+
+## What I do
+- 🎮 Roblox game developer since 2019 (3D models, UI, gameplay mechanics)
+- 🏆 Part of Roblox's World Top Developer program
+- 🤖 Robotics: mBot, Arduino, LEGO Spike
+- 👨‍🏫 Taught digital skills at the Academia Digital para Pais
+
+## Tech
+Lua/Luau · C# · Python · Hardware · Design
+
+## Languages
+Portuguese (native) · English
+
+## Interests
+Game creation, design, robotics, modding, futsal, basketball
+
 
 
